@@ -1,0 +1,5 @@
+speechrecognition
+pydub
+pocketsphinx
+flask
+googletrans==4.0.0-rc1
